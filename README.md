@@ -20,7 +20,7 @@ A curated collection of **amazing hover effects, animations, and UI components**
 | [Amazing Star Hover Effect](Amazing-Star-Hover-Effect/) | Interactive star rating with glow effects | [View](Amazing-Star-Hover-Effect/index.html) |
 | [Animated Hamburger Menu Icon](Animated-Hamburger-Menu-Icon/) | Smooth hamburger menu animation | [View](Animated-Hamburger-Menu-Icon/index.html) |
 | [Basic Spinning Loader](Basic-Spinning-Loader/) | Simple loading spinner | [View](Basic-Spinning-Loader/index.html) |
-| [Bubbly Button Hover Effect](Bubbly Button Hover Effect/) | Bouncy button with scale animation | [View](Bubbly-Button-Hover-Effect/index.html) |
+| [Bubbly Button Hover Effect](Bubbly-Button-Hover-Effect/) | Bouncy button with scale animation | [View](Bubbly-Button-Hover-Effect/index.html) |
 | [Button Group Hover Effect](Button-Group-Hover-Effect/) | Grouped buttons with ripple effects | [View](Button-Group-Hover-Effect/index.html) |
 | [Button Shadow Hover Effect](Button-Shadow-Hover-Effect/) | Dynamic shadow on hover | [View](Button-Shadow-Hover-Effect/index.html) |
 | [Change Hover Effect](Change-Hover-Effect/) | Color-changing hover transitions | [View](Change-Hover-Effect/index.html) |
